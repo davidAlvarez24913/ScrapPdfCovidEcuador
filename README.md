@@ -1,2 +1,2 @@
 # ScrapPdfCovidEcuador
-Notebook python with code to extract text form imphorapihics
+Notebook python with code to extract text form imphographics
